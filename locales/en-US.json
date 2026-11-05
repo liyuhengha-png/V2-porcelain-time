@@ -1,0 +1,49 @@
+{
+  "lang": { "system": "Auto" },
+  "home": {
+    "edition": "A journey through ceramic time",
+    "eyebrow": "Porcelain time",
+    "title": "瓷时",
+    "motto": "Your birthday has a story in porcelain.",
+    "formLabel": "Your birthday · 你的生日",
+    "month": "Month",
+    "day": "Day",
+    "discover": "Discover my porcelain",
+    "intro": "Enter your birthday and meet one Chinese ceramic work from the long river of history.",
+    "footer": "Twenty works, two thousand years"
+  },
+  "result": {
+    "index": "01 / Your porcelain story",
+    "period": "Historical period",
+    "kiln": "Kiln / Origin",
+    "story": "01 / The story",
+    "craft": "02 / The craft",
+    "connection": "03 / Where your birthday meets it",
+    "again": "Discover another",
+    "share": "Share my porcelain",
+    "chapter": "A birthday encounter / 01"
+  },
+  "units": { "day": "{{n}}" },
+  "months": {
+    "1": "January", "2": "February", "3": "March", "4": "April", "5": "May", "6": "June",
+    "7": "July", "8": "August", "9": "September", "10": "October", "11": "November", "12": "December"
+  },
+  "conn": {
+    "exact": "This day truly exists in ceramic history: {{event}} It is not the creation date of this piece — {{name}} belongs to {{period}} — but the day itself is porcelain's, and we kept it for you.",
+    "near": "Within {{days}} day(s) of your birthday, this happened in ceramics: {{event}} We brought you the work nearest that moment — not its creation date, but a closeness in time.",
+    "thematic": "No exact creation date survives for {{name}}, and we will not invent one. Your birthday falls in {{season}}; following {{motif}}, we chose a piece from {{period}} for this day."
+  },
+  "tag": {
+    "exact": "Verified historical date",
+    "near": "Nearest dated event",
+    "thematic": "Thematic date association"
+  },
+  "note": "Image: {{credit}}. Periods are approximate; no exact creation date is claimed.",
+  "share": {
+    "title": "Porcelain Time",
+    "text": "{{md}} — my birthday met {{name}} ({{period}}, {{kiln}}). {{tag}} via Porcelain Time.",
+    "copied": "Card and text copied — paste it anywhere.",
+    "fallback": "Sharing is unavailable here; the card was downloaded instead.",
+    "downloaded": "Card saved as an image."
+  }
+}
